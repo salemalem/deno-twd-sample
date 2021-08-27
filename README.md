@@ -20,4 +20,4 @@ Writing styles to file 'styles.css'
 Builtin 89ms
 ```
 
-- w flag is used to watch file changes instead of reexecuting the command each time.
+-w flag is used to watch file changes instead of reexecuting the command each time.
